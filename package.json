@@ -24,7 +24,7 @@
   },
   "jest": {
     "collectCoverageFrom": [
-      "app.js"
+      "!server.js"
     ]
   }
 }
