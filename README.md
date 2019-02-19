@@ -7,15 +7,15 @@
 
 *INDEX*
 ----
-* ***Show Notes***
+* ***[Show Notes](https://github.com/ericweissman/trapper-keeper-be/blob/master/README.md#show-notes)***
 
-* ***Add New Note***
+* ***[Add New Note](https://github.com/ericweissman/trapper-keeper-be/blob/master/README.md#add-new-note)***
 
-* ***Get Specific Note***
+* ***[Get Specific Note](https://github.com/ericweissman/trapper-keeper-be/blob/master/README.md#get-specific-note)***
 
-* ***Delete a Specific Note***
+* ***[Delete a Specific Note](https://github.com/ericweissman/trapper-keeper-be/blob/master/README.md#delete-a-note)***
 
-* ***Edit a Specific Note***
+* ***[Edit a Specific Note](https://github.com/ericweissman/trapper-keeper-be/blob/master/README.md#edit-specific-note)***
 
 
 
