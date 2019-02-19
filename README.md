@@ -42,8 +42,9 @@
       })
       .then(response => response.json())
   ```
+  
 
-  **Add New Note**
+**Add New Note**
 ----
   Returns json data all of the note that was added.
 
@@ -89,7 +90,8 @@
     .then(response => response.json())
   ```
 
-  **Get Specific Note**
+
+**Get Specific Note**
 ----
   Returns json data all of a specific note.
 
@@ -133,7 +135,8 @@
     .then(response => response.json())
   ```
 
-  **Delete a Note**
+
+**Delete a Note**
 ----
   Returns the id of the note that was deleted.
 
@@ -176,6 +179,7 @@
     })
     .then(response => response.json())
   ```
+
 
 **Edit specific Note**
 ----
